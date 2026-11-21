@@ -1,0 +1,3 @@
+# Groq API key: https://console.groq.com/keys
+GROQ_API_KEY = ""
+GROQ_MODEL = ""
